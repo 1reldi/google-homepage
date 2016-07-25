@@ -1,0 +1,98 @@
+div {
+	display: block;
+	width: 100%;
+	height: 25%;
+
+}
+
+
+#header {
+
+	margin-top: 1.8%;
+	
+}
+
+#linku {
+	margin-left: 85%;
+}
+
+#app {
+
+	position: inline;
+	margin-left: 1%;
+	margin-top: -0.5%;
+}
+
+#zile {
+	position: inline;
+	margin-left: 4%;
+	margin-top: -0.6%;
+}
+
+#R {
+	position: inline;
+	margin-left: 7.3%;
+	margin-top: -0.9%;
+}
+
+#buttons {
+	position: inline;
+	margin-top: -7%;
+}
+
+#footer{
+	background-color: #F2F2F2;
+	width: 100%;
+	height: 2.5em;
+	margin-top: 2%;
+}
+
+
+p{
+	color: red;
+}
+img {
+	position: absolute;
+	margin-left: 39%;
+
+}
+a:link {
+	color: #6E6E6E;
+	text-decoration: none;
+	display: inline;
+	font-family: arial;
+	font-size: 13;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+.search {
+	margin-left: 30%;
+	
+	position: absolute;
+	color: #0080FF;
+	
+}
+button {
+	width: 8.5em;
+	height: 2.5em;
+	color: #6E6E6E;
+	border: none;
+
+	
+}
+#button1 {
+	margin-left: 42%;
+}
+#button2 {
+	margin-left: 1.5%;
+}
+.links {
+	margin-left: 3%;
+
+}
+.links2 {
+	margin-left: 57%;
+
+}
